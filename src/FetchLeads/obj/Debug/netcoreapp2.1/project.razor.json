@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/FetchLeads.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

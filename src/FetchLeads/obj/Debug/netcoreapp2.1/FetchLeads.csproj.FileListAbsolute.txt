@@ -1,0 +1,11 @@
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/bin/Debug/netcoreapp2.1/FetchLeads.deps.json
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/bin/Debug/netcoreapp2.1/FetchLeads.runtimeconfig.json
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/bin/Debug/netcoreapp2.1/FetchLeads.runtimeconfig.dev.json
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/bin/Debug/netcoreapp2.1/FetchLeads.dll
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/bin/Debug/netcoreapp2.1/FetchLeads.pdb
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/obj/Debug/netcoreapp2.1/FetchLeads.csprojAssemblyReference.cache
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/obj/Debug/netcoreapp2.1/FetchLeads.csproj.CoreCompileInputs.cache
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/obj/Debug/netcoreapp2.1/FetchLeads.AssemblyInfoInputs.cache
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/obj/Debug/netcoreapp2.1/FetchLeads.AssemblyInfo.cs
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/obj/Debug/netcoreapp2.1/FetchLeads.dll
+/Users/luchianchivoiu/Documents/!!!IT COMPANIES!!!/FetchLeads/src/FetchLeads/obj/Debug/netcoreapp2.1/FetchLeads.pdb
